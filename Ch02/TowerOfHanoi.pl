@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use Data::Dumper;
 
-my $numOfDisks = 3;
+my $numOfDisks = 4;
 
 my (@from, @to, @aux);
 
